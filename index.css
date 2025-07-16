@@ -1,0 +1,9 @@
+/*
+This file is included to resolve a 404 error during local development
+and to provide a place for any potential global or base styles that
+are not covered by Tailwind CSS utilities.
+*/
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
